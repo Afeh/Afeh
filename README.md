@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Afeh
-- ✨ I'm currently a Computer Science Student at The Federal University of Technology, Akure.
+- ✨ I'm a Computer Science Graduate from The Federal University of Technology, Akure.
 - 👀 I’m interested in Software Engineering and Blockchain Development
-- 🌱 I’m currently learning C Programming, Django Web Framework, Python, Javascript and Solidity
 - 💞️ I’m looking to collaborate on Web and open source projects
 - 📫 How to reach me: @AfebuBalogun on Twitter, Mail me: balogunafebu22@gmail.com
 
